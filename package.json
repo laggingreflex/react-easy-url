@@ -1,6 +1,6 @@
 {
   "name": "react-easy-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auto synchronize your state with the URL",
   "main": "index.js",
   "repository": "laggingreflex/react-easy-url",
